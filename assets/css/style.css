@@ -11,18 +11,18 @@ body {
 }
 
 nav {
-    background-color: rgb(206, 238, 227);
+    background-color: hwb(196 19% 14%);
     padding: 20px;
     border-bottom: 5px solid white;
     text-align: center;
     font-size: 2em;
-    color: rgb(43, 117, 119);
+    color: rgb(47, 38, 86);
 }
 
 main {
     margin: 30px 25%;
     padding: 50px;
-    background-color: rgb(206, 238, 227);
+    background-color: rgb(225, 232, 230);
     min-height: 50vh;
 }
 
